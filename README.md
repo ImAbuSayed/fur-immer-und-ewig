@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fur-immer-und-ewig/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Für immer und ewig](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-und-ewig/) |
+| **Get License** | [Commercial Licensing for Für immer und ewig](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-und-ewig/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Der Benz rollt lautlos im All-Black-Design
+> Baby, schau mich an, diese Nacht bist du mein
+> Niemand hier gibt dir die Vibes so wie ich
+> Die ganze Stadt schläft, aber wir beide nicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
