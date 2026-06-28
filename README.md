@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fur-immer-und-ewig/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Für immer und ewig](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-und-ewig/) |
+| **Get License** | [Secure Licensing Rights for Für immer und ewig](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fur-immer-und-ewig/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4605)
 
 ---
 
